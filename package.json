@@ -1,10 +1,14 @@
 {
   "name": "tmt-anim-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple animation library using Framer Motion",
   "main": "src/index.js",
   "exports": "./src/index.js",
-  "keywords": ["react", "animations", "framer-motion"],
+  "keywords": [
+    "react",
+    "animations",
+    "framer-motion"
+  ],
   "author": "Raphael Tomiwa",
   "license": "MIT",
   "dependencies": {
