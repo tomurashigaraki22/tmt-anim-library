@@ -2,8 +2,8 @@
   "name": "tmt-anim-library",
   "version": "1.0.2",
   "description": "A simple animation library using Framer Motion",
-  "main": "src/index.js",
-  "exports": "./src/index.js",
+  "main": "src/index.jsx",
+  "exports": "./src/index.jsx",
   "scripts": {
     "dev": "vite"
   },
