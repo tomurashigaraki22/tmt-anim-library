@@ -1,6 +1,6 @@
 {
   "name": "tmt-anim-library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple animation library using Framer Motion",
   "main": "src/index.js",
   "exports": "./src/index.js",
