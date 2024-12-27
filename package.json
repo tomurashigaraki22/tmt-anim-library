@@ -4,6 +4,9 @@
   "description": "A simple animation library using Framer Motion",
   "main": "src/index.js",
   "exports": "./src/index.js",
+  "scripts": {
+    "dev": "vite"
+  },
   "keywords": [
     "react",
     "animations",

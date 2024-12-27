@@ -35,7 +35,7 @@ Here's a simple example of how to use the animations in your React project:
 
 To use an animation, import it into your component.
 
-*import { FadeIn, SlideIn, Bounce } from '@your-username/animation-library';*
+*import { FadeIn, SlideIn, Bounce } from 'tmt-anim-library';*
 
 ## Using an Animation
 
